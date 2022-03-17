@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-17T06:41:15 CST" name="Default suite" finished-at="2022-03-17T06:41:39 CST" duration-ms="23620">
+    <groups>
+    </groups>
+    <test started-at="2022-03-17T06:41:15 CST" name="Default test" finished-at="2022-03-17T06:41:39 CST" duration-ms="23620">
+      <class name="seleniumDEMOQA.SeleniumDemoQA">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:seleniumDEMOQA.SeleniumDemoQA@f5acb9d]" started-at="2022-03-17T06:41:15 CST" name="startDriver" finished-at="2022-03-17T06:41:21 CST" duration-ms="5895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="checkbox()[pri:0, instance:seleniumDEMOQA.SeleniumDemoQA@f5acb9d]" started-at="2022-03-17T06:41:21 CST" name="checkbox" finished-at="2022-03-17T06:41:22 CST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:seleniumDEMOQA.SeleniumDemoQA@f5acb9d]" started-at="2022-03-17T06:41:22 CST" name="quit" finished-at="2022-03-17T06:41:22 CST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:seleniumDEMOQA.SeleniumDemoQA@f5acb9d]" started-at="2022-03-17T06:41:22 CST" name="startDriver" finished-at="2022-03-17T06:41:28 CST" duration-ms="6315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="webtables()[pri:0, instance:seleniumDEMOQA.SeleniumDemoQA@f5acb9d]" started-at="2022-03-17T06:41:28 CST" name="webtables" finished-at="2022-03-17T06:41:39 CST" duration-ms="10677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webtables -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:seleniumDEMOQA.SeleniumDemoQA@f5acb9d]" started-at="2022-03-17T06:41:39 CST" name="quit" finished-at="2022-03-17T06:41:39 CST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- seleniumDEMOQA.SeleniumDemoQA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
